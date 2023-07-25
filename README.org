@@ -1,0 +1,10 @@
+* cl-variates
+
+
+
+|---------+-------------------------------------------|
+| source  | git:https://gitlab.common-lisp.net/cl-variates/cl-variates.git   |
+| commit  |   |
+| systems | cl-variates |
+|---------+-------------------------------------------|
+
