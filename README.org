@@ -2,9 +2,8 @@
 
 
 
-4e75487---------+-------------------------------------------|
-4e75487 source  | git:https://gitlab.common-lisp.net/cl-variates/cl-variates.git   |
-4e75487 commit  |   |
-4e75487 systems | cl-variates |
-4e75487---------+-------------------------------------------|
-
+|---------+----------------------------------------------------------------|
+| source  | git:https://gitlab.common-lisp.net/cl-variates/cl-variates.git |
+| commit  | 4e75487                                                        |
+| systems | cl-variates                                                    |
+|---------+----------------------------------------------------------------|
